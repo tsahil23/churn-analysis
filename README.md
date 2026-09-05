@@ -7,6 +7,10 @@ The Exited column indicates whether a customer has left the bank or is still a c
 The dataset is useful for analyzing customer churn and retention. 
 It helps identify patterns and customer segments that are more likely to leave the bank based on factors such as age, gender, location, credit score, tenure, number of products, account balance, and membership activity.
 
+📊 Dashboard Preview
+<img width="1378" height="772" alt="image" src="https://github.com/user-attachments/assets/93bbdb6e-868c-4f68-8d04-d36975a2eeaa" />
+
+
 ## 🔄 Project Workflow
 
 **1. Kaggle Dataset**
