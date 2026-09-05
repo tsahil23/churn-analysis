@@ -1,14 +1,32 @@
 # Customer Churn 
 
 ## 📌 Overview
+This dataset contains information about 10,000 bank customers along with their personal, financial, and banking-related details. 
+The Exited column indicates whether a customer has left the bank or is still a customer.
 
-This project analyzes customer churn for a banking dataset containing **10,000 customers**. 
-The goal is to identify understand factors associated with customer churn.
-
+The dataset is useful for analyzing customer churn and retention. 
+It helps identify patterns and customer segments that are more likely to leave the bank based on factors such as age, gender, location, credit score, tenure, number of products, account balance, and membership activity.
 
 ## 🔄 Project Workflow
 
-**Kaggle Dataset → PostgreSQL → SQL Analysis → Power BI Dashboard → Business Insights**
+**1. Kaggle Dataset**
+Download the banking customer churn dataset.
+↓
+**2. Load Data into PostgreSQL**
+Create the customer table and import the CSV data into PostgreSQL.
+↓
+**3. Data Validation**
+Check the data structure, row count, NULL values, and data quality.
+↓
+**4. SQL Analysis**
+Analyze churn rate based on gender, age, geography, tenure, credit score, products, and active membership.
+↓
+**5. Power BI Dashboard**
+Connect PostgreSQL to Power BI and create interactive charts, KPIs, 
+↓
+**6. Insights & Recommendations**
+Identify high-risk customer segments and suggest strategies to reduce churn.
+
 ## 🛠️ Tools Used
 
 - Kaggle Dataset
@@ -57,6 +75,5 @@ Female customers have a higher churn rate. The bank should understand their need
 - Use Tenure-Based Campaigns
 Identify the tenure periods with high churn and offer special benefits to customers during those periods.
 
-**Sahil Tayade**
 
-Data Analyst | SQL | Power BI | Python | Excel
+
