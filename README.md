@@ -15,21 +15,27 @@ It helps identify patterns and customer segments that are more likely to leave t
 
 **1. Kaggle Dataset**
 Download the banking customer churn dataset.
-↓
+⬇️
+
 **2. Load Data into PostgreSQL**
 Create the customer table and import the CSV data into PostgreSQL.
-↓
+⬇️
+
 **3. Data Validation**
 Check the data structure, row count, NULL values, and data quality.
-↓
+⬇️
+
 **4. SQL Analysis**
-Analyze churn rate based on gender, age, geography, tenure, credit score, products, and active membership.
-↓
+Analyze churn based on gender, age, geography, tenure, credit score, number of products, and active membership.
+⬇️
+
 **5. Power BI Dashboard**
-Connect PostgreSQL to Power BI and create interactive charts, KPIs, 
-↓
+Connect PostgreSQL to Power BI and create KPI cards, charts, filters, and interactive visualizations.
+⬇️
+
 **6. Insights & Recommendations**
-Identify high-risk customer segments and suggest strategies to reduce churn.
+Identify high-risk customer segments and provide recommendations to reduce customer churn.
+
 
 ## 🛠️ Tools Used
 
